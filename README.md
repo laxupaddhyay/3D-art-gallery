@@ -11,6 +11,7 @@ Virtual Gallery is an immersive web application that allows users to explore and
 
 - **3D Virtual Environment**: Step into a fully immersive 3D space and experience images in a unique and captivating way.
 - **Navigation**: Seamlessly navigate through the virtual gallery using keyboard controls (W, A, S, D) to walk around and the mouse to look around and change your viewpoint.
+  And press `ESC` to exit .
 - **Particle Effects**: Enhance the immersive experience with mesmerizing particle effects that add depth and ambiance to the virtual environment.
 - **Interactive Elements**: Interact with various elements within the gallery, enabling an engaging and dynamic experience.
 - **Image Viewing**: Focus on different images displayed throughout the virtual space, providing an up-close and detailed view.
