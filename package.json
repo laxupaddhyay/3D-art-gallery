@@ -1,5 +1,5 @@
 {
-  "name": "3D-art-gallery",
+  "name": "3d-art-gallery",
   "scripts": {
     "start" : "vite start",
     "dev" : "vite dev",
