@@ -1,4 +1,9 @@
 {
+  "scripts": {
+    "dev" : "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
   "dependencies": {
     "ammo.js": "^0.0.10",
     "ammojs-typed": "^1.0.6",
